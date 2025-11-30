@@ -1,4 +1,5 @@
 # 📄 README.md — CRUD + XOR Stream Encryption (CLI Version)
+# Tugas Kevin Navarro - 230401010033 - Universitas Siber Asia
 
 # 🔐 CRUD dengan Kriptografi Simetris Stream XOR  
 Aplikasi ini adalah implementasi **CRUD (Create, Read, Update, Delete)** dengan **kriptografi simetris** menggunakan *stream cipher XOR*.
