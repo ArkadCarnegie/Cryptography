@@ -201,10 +201,10 @@ Sifat penting:
 
 
 ### Plaintext CSV
-![csv Plaintext screenshot](screenshots/csv_plaintext.png)
+![csv Plaintext screenshot](tugas-kripto/screenshots/csv_plaintext.png)
 
 ### Encrypted CSV
-![csv Encrypt screenshot](screenshots/csv_encrypt.png)
+![csv Encrypt screenshot](tugas-kripto/screenshots/csv_encrypt.png)
 
 ---
 
